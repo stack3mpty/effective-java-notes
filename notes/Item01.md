@@ -10,4 +10,4 @@ unnecessary duplicate objects.
 5. The class of the returned object need not exist when the class containing the method is written.
 - disadvantage:
 1. Class only has static factory methods but no public or protected constructors can not be subclassed.
-2. Static factory methods are har for programmers to find.
+2. Static factory methods are hard for programmers to find.

@@ -1,4 +1,4 @@
-### Item02 Consider a builder when faced with many constructor parameters
+## Item02 Consider a builder when faced with many constructor parameters
 If there is a class with many constructor parameters, you want to create some instances of that class, 
 but you don't want to specify all the parameters each time. You must do not want to create different constructors 
 for each combination of parameters.

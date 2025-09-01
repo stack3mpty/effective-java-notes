@@ -1,4 +1,4 @@
-### Item03 Enforce the singleton property with a private constructor or an enum type
+## Item03 Enforce the singleton property with a private constructor or an enum type
 The main advantage of the public field approach is that the API makes it clear that the class is a singleton: 
 the public static field is final, so it will always contain the same object reference. 
 The second advantage is that it’s simpler.
